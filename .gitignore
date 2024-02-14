@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all,kotlin,java,maven
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all,kotlin,java,maven
-
+ 
 ### Java ###
 # Compiled class file
 *.class
